@@ -37,13 +37,13 @@ Kullanıcı dostu bir arayüz sayesinde video dosyası seçilebilir, çıktı yo
 ---
 ## 🔮 İleride Yapılacaklar
 
-- 🎵 **Farklı audio formatları desteği** (MP3, WAV, AAC, FLAC)
-- 🎬 **Video → Video dönüştürme** desteği (MP4, AVI, MKV)
-- 📂 **Çoklu dosya seçimi ve toplu dönüştürme**
-- 🖱️ **Sürükle – bırak (Drag & Drop)** ile dosya ekleme
-- 🌙 **Dark Mode / Light Mode** arayüz seçeneği
-- 📊 **Daha detaylı progress bar** (kalan süre, yüzde bilgisi)
-- 📜 **FFmpeg log çıktılarının GUI üzerinde gösterilmesi**
-- ⚠️ **Hata mesajlarının kullanıcıya detaylı gösterilmesi**
-- ⚙️ **Ses bitrate ve kalite ayarları**
-- 📦 **Kurulum dosyası (installer) oluşturma**
+-  **Farklı audio formatları desteği** (MP3, WAV, AAC, FLAC)
+-  **Video → Video dönüştürme** desteği (MP4, AVI, MKV)
+-  **Çoklu dosya seçimi ve toplu dönüştürme**
+-  **Sürükle – bırak (Drag & Drop)** ile dosya ekleme
+-  **Dark Mode / Light Mode** arayüz seçeneği
+-  **Daha detaylı progress bar** (kalan süre, yüzde bilgisi)
+-  **FFmpeg log çıktılarının GUI üzerinde gösterilmesi**
+-  **Hata mesajlarının kullanıcıya detaylı gösterilmesi**
+-  **Ses bitrate ve kalite ayarları**
+-  **Kurulum dosyası (installer) oluşturma**
