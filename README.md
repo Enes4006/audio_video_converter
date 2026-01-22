@@ -27,7 +27,6 @@ Kullanıcı dostu bir arayüz sayesinde video dosyası seçilebilir, çıktı yo
 
 ---
 
-
 ⚠️ Bilinen Sorunlar
 
 Uzun videolarda dönüştürme süresi uzayabilir
@@ -36,32 +35,11 @@ FFmpeg çıktısı GUI üzerinde detaylı gösterilmemektedir
 
 
 
-
 ## 📷 Uygulama Arayüzü
 
-![Uygulama Arayüzü](screenshots/app.png)
-
-> (İstersen buraya ekran görüntüsü ekleyebilirsin)
+![Uygulama Arayüzü](<img width="629" height="410" alt="image" src="https://github.com/user-attachments/assets/95d0e7c2-4caa-48c7-b5a5-4a998630e803" />
+)
+> 
 
 ---
 
-## 📦 Kurulum
-
-### 1️⃣ Depoyu klonla
-```bash
-git clone https://github.com/kullanici_adin/audio-video-converter.git
-cd audio-video-converter
-
-
-
-
-FFmpeg, proje klasörü içinde bin/ffmpeg.exe olarak bulunmaktadır
-
-Sisteme PATH eklenmesine gerek yoktur
-
-
-
-
-çalıştırma
-
-python main.py
