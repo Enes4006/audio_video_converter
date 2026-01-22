@@ -30,16 +30,12 @@ Kullanıcı dostu bir arayüz sayesinde video dosyası seçilebilir, çıktı yo
 ⚠️ Bilinen Sorunlar
 
 Uzun videolarda dönüştürme süresi uzayabilir
-
 FFmpeg çıktısı GUI üzerinde detaylı gösterilmemektedir
 
-
+---
 
 ## 📷 Uygulama Arayüzü
 
-![Uygulama Arayüzü](<img width="629" height="410" alt="image" src="https://github.com/user-attachments/assets/95d0e7c2-4caa-48c7-b5a5-4a998630e803" />
-)
-> 
+<img width="629" height="410" alt="Ekran görüntüsü 2026-01-22 172927" src="https://github.com/user-attachments/assets/55a9f960-adbb-4391-b01f-9dd810ac83d2" />
 
----
 
