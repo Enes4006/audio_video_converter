@@ -1,4 +1,4 @@
-# 🎵 Audio / Video Converter 
+# 🎵 mp4-mp3_converter
 
 Bu proje, **Python** kullanılarak geliştirilmiş, **grafik arayüzlü (GUI)** bir **video → audio dönüştürme** uygulamasıdır.  
 Kullanıcı dostu bir arayüz sayesinde video dosyası seçilebilir, çıktı yolu belirlenebilir ve dönüştürme işlemi **ilerleme çubuğu (progress bar)** ile takip edilebilir.
@@ -8,7 +8,7 @@ Kullanıcı dostu bir arayüz sayesinde video dosyası seçilebilir, çıktı yo
 ## 🚀 Özellikler
 
 - 🎬 Video dosyası seçme
-- 🎧 Videodan ses (audio) çıkarma
+- 🎧 Videodan ses çıkarma
 - 📁 Çıkış dosyası için kayıt yeri belirleme
 - 📊 Progress bar ile dönüştürme durumu
 - 🖥️ Basit ve anlaşılır GUI
@@ -33,3 +33,17 @@ Kullanıcı dostu bir arayüz sayesinde video dosyası seçilebilir, çıktı yo
   <img src="https://github.com/user-attachments/assets/55a9f960-adbb-4391-b01f-9dd810ac83d2" width="45%" />
   <img src="https://github.com/user-attachments/assets/4408487f-3808-4532-9c72-0e23ba653033" width="25%" />
 </p>
+
+---
+## 🔮 İleride Yapılacaklar
+
+- 🎵 **Farklı audio formatları desteği** (MP3, WAV, AAC, FLAC)
+- 🎬 **Video → Video dönüştürme** desteği (MP4, AVI, MKV)
+- 📂 **Çoklu dosya seçimi ve toplu dönüştürme**
+- 🖱️ **Sürükle – bırak (Drag & Drop)** ile dosya ekleme
+- 🌙 **Dark Mode / Light Mode** arayüz seçeneği
+- 📊 **Daha detaylı progress bar** (kalan süre, yüzde bilgisi)
+- 📜 **FFmpeg log çıktılarının GUI üzerinde gösterilmesi**
+- ⚠️ **Hata mesajlarının kullanıcıya detaylı gösterilmesi**
+- ⚙️ **Ses bitrate ve kalite ayarları**
+- 📦 **Kurulum dosyası (installer) oluşturma**
